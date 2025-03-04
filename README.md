@@ -1,10 +1,10 @@
-# AI and ML Projects
+# ML Projects
 
 This repository contains a collection of AI and ML-based projects showcasing various techniques and applications. Each project folder in this repository includes the code, data (if applicable), and instructions for running the project.
 
 ## Overview
 
-In this repository, you'll find projects that demonstrate my skills and experience in AI and ML. Each project includes a detailed README file explaining the project's objectives, methodologies, and results. This repository highlights various applications of AI and ML, including regression models, neural networks, computer vision, and natural language processing.
+In this repository, you'll find projects that demonstrate my skills and experience in ML. Each project includes a detailed README file explaining the project's objectives, methodologies, and results. This repository highlights various applications of ML, including regression models, neural networks, computer vision, and natural language processing.
 
 ## Table of Contents
 
